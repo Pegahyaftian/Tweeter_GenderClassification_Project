@@ -1,4 +1,4 @@
-README for G17
+README for Tweeter Gender Classification
 ----------------
 
 Our project relies mainly on numpy, matplotlib, sklearn, pandas, PyTorch, Skorch, Gensim, nltk
