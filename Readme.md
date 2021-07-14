@@ -1,7 +1,7 @@
 README for Tweeter Gender Classification
 ----------------
 
-Our project relies mainly on numpy, matplotlib, sklearn, pandas, PyTorch, Skorch, Gensim, nltk
+The project relies mainly on numpy, matplotlib, sklearn, pandas, PyTorch, Skorch, Gensim, nltk
 
 ./environment.yaml	<-- conda environment for the project
 ./data_process.py	<-- contains the preprocessor class which is responsible for data loading,preprocessing,saving data
